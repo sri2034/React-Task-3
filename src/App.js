@@ -10,7 +10,7 @@ function App() {
   return (
     <div id='i2' style={{backgroundColor:"rgba(137, 38, 176, 0.3389)"}}>
         <h1 style={{textAlign:"center"}}>Color Picker</h1>
-      <div id="i1"style={{backgroundColor:"rgba(246, 144, 161, 0.966)"}}>
+      <div id="i1"style={{backgroundColor:"rgba(246, 144, 161, 0.766)"}}>
         <ColorPicker colors={colors} />
       </div>
     </div>
