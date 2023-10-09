@@ -36,8 +36,8 @@
   #i1{
     border-radius: 15px;
     height: 50vh;
-    padding: 200px 20px 0px 20px;
-    box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
+    padding: 150px 20px 0px 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 1);
   }
   #i2{
     padding: 15px 100px;
