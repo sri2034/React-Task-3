@@ -27,7 +27,7 @@
     margin: 5px;
     margin-bottom: 30px;
     cursor: pointer;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1); /* Add a shadow effect here */
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1); 
   }
   
   .selected-color {
@@ -37,6 +37,7 @@
     border-radius: 15px;
     height: 50vh;
     padding: 200px 20px 0px 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
   }
   #i2{
     padding: 15px 100px;
